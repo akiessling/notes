@@ -9,5 +9,5 @@ composer global require phpcompatibility/php-compatibility
 Run the compat test
 
 ```
-phpcs --runtime-set installed_paths ~/.composer/vendor/phpcompatibility/php-compatibility --standard=PHPCompatibility --runtime-set testVersion 7.2 --extensions=php .
+phpcs --runtime-set installed_paths `composer config home`/vendor/phpcompatibility/php-compatibility --standard=PHPCompatibility --runtime-set testVersion 5.3 --extensions=php .
 ```
