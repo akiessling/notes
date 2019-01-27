@@ -1,5 +1,3 @@
-cli
-
 # ack
 https://beyondgrep.com/ - is a tool like grep, optimized for programmers
 
