@@ -10,3 +10,6 @@
 
 ## Console
 * https://typo3worx.eu/2019/01/symfony-console-in-typo3/ - Using the Symfony console in TYPO3
+
+# Statistics
+* https://www.t3versions.com/ Online checker and database for TYPO3 versions
