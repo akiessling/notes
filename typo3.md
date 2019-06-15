@@ -13,3 +13,9 @@
 
 # Statistics
 * https://www.t3versions.com/ Online checker and database for TYPO3 versions
+
+# Fluid
+* inline forEach, kudos to https://stackoverflow.com/questions/27335295/inline-notation-of-typo3-fluid-view-helper-ffor
+```
+{f:if(condition: i.isLast, then: '{x}', else: '{x} ') -> f:for(each: '{item.thing}', as: 'x', iteration: 'i')}
+```
