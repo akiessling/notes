@@ -40,6 +40,9 @@ https://ranger.github.io/ - A VIM-inspired filemanager for the console
 # ripgrep
 https://github.com/BurntSushi/ripgrep - recursively searches directories for a regex pattern
 
+# shelldap
+https://bitbucket.org/mahlon/shelldap/src/default/ - a cli tool for browsing ldap
+
 # tig
 https://jonas.github.io/tig/ - text-mode interface for Git
 
